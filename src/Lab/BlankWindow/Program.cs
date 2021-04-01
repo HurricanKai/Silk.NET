@@ -15,7 +15,7 @@ using SixLabors.ImageSharp.PixelFormats;
 
 namespace BlankWindow
 {
-    internal class Program
+    internal class Program 
     {
         public const bool Quieter = true;
 
